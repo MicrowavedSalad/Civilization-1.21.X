@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/chest_single",
+  "textures": {
+    "particle": "civilizationmod:block/lumbermill",
+    "end": "civilizationmod:block/lumbermill",
+    "front": "civilizationmod:block/lumbermill",
+    "lid": "civilizationmod:block/lumbermill",
+    "bottom": "civilizationmod:block/lumbermill",
+    "trap": "civilizationmod:block/lumbermill",
+    "side": "civilizationmod:block/lumbermill"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "civilizationmod:block/lumbermill" },
+    "facing=east":  { "model": "civilizationmod:block/lumbermill" },
+    "facing=south": { "model": "civilizationmod:block/lumbermill" },
+    "facing=west":  { "model": "civilizationmod:block/lumbermill" }
+  }
+}

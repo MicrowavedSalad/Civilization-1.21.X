@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XCX",
+    "XXX"
+  ],
+  "key": {
+    "C": { "item": "minecraft:cobblestone" },
+    "X": { "item": "minecraft:oak_planks" }
+  },
+  "result": {
+    "item": "civilizationmod:lumbermill",
+    "count": 1
+  }
+}
